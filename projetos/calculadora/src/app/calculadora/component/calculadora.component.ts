@@ -13,7 +13,7 @@ export class CalculadoraComponent implements OnInit {
   }
 
   ngOnInit(): void {
-
+    
   }
 
 }
